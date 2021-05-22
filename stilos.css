@@ -54,3 +54,14 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.footer {
+  background-color: thistle;
+  color: rgb(126, 50, 126);
+  font-size: 15px;
+  height: 25px;
+  width: 150px;
+  text-align: center;
+  margin: 15px;
+  text-align: center;
+}
