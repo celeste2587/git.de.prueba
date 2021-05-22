@@ -1,0 +1,56 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  /* box-sizing: border-box; */
+  height: 100px;
+  margin: 5px;
+  background-color: beige;
+  color: cadetblue;
+}
+
+.hr3 {
+  color: cornflowerblue;
+  text-align: center;
+  font-size: 40px;
+  font-family: cursive;
+  padding: 5px;
+}
+
+.parrafos {
+  padding: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: whitesmoke;
+  margin: 5px;
+}
+
+.parrafos .p1 {
+  background-color: teal;
+  padding: 15px;
+}
+
+.parrafos .p2 {
+  background-color: tomato;
+  padding: 15px;
+  margin: 5px;
+}
+
+.parrafos .p3 {
+  background-color: violet;
+  padding: 15px;
+}
+
+.boton {
+  display: inline-flex;
+  background-color: aquamarine;
+  border-radius: 10px;
+  width: 100px;
+  height: 40px;
+  color: rgb(241, 42, 108);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
