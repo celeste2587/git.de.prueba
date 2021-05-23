@@ -1,0 +1,17 @@
+commit bf03c1153071c03a33744bec22940deee9b6ae8d
+Author: Abril <abrilvazquez93@outook.com>
+Date:   Sat May 22 20:48:14 2021 -0300
+
+    se agrego un parrafo en html y css
+
+commit aa2740d7f68c63d4fb11cc73900c6a8c188c8f8a
+Author: Abril <abrilvazquez93@outook.com>
+Date:   Sat May 22 20:38:19 2021 -0300
+
+    se agrego pie de pagina al html y al css
+
+commit 1ac469d9f58c050bbfea08a5a399149351276d2e
+Author: Abril <abrilvazquez93@outook.com>
+Date:   Sat May 22 20:26:19 2021 -0300
+
+    practicando

@@ -61,6 +61,11 @@ body {
   justify-content: center;
 }
 
+.boton1 {
+  position: relative;
+  margin-left: 50%;
+}
+
 .footer {
   background-color: thistle;
   color: rgb(126, 50, 126);
